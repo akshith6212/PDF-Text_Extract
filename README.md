@@ -11,6 +11,6 @@ A simple pdf text extractor using Tkinter, PyPDF2.
 
 - Install PyPDF2
 
-  - ```powershell
+   ```powershell
     pip install PyPDF2
     ```
